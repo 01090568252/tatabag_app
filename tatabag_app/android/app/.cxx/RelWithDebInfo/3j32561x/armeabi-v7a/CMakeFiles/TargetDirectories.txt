@@ -1,0 +1,2 @@
+C:/New folder/tatabag_app/tatabag_app/android/app/.cxx/RelWithDebInfo/3j32561x/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/New folder/tatabag_app/tatabag_app/android/app/.cxx/RelWithDebInfo/3j32561x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
